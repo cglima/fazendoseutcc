@@ -7,7 +7,7 @@ O intuito desta estrutura é contextualizar o leitor sobre o assunto que será a
 
 ![Blocos da Introdução](img/introducao-blocos.png)
 
-> **Observação**: As perguntas a seguir são apenas sugestões para estruturar a introdução. Estas podem (DEVEM) ser alteradas por você (Autor), de acordo com a sua real necessidade da pesquisa.
+> **Observação**: Este modelo de blocos é apenas uma sugestão de como estruturar a sua introdução. As perguntas a seguir são apenas exemplos. O autor deve elaborar perguntas de acordo com sua conveniência e com o tema do seu trabalho, de forma a guiar a elaboração da introdução. Evidentemente que, caso o autor se sinta confortável com outro modelo, este pode ser usado na elaboração de sua introdução.
 
 ## Antecedentes do tema
 
@@ -23,8 +23,8 @@ Ex2.: Estas perguntas referem-se ao tema "Analisadores utilizados na calibraçã
 
 * Existia a preocupação de calibrar e dar manutenção nos aparelhos?
 * Como era feita a calibração anteriormente, caso houvesse?
-* Problemas causados pela não calibração dos equipamentos. (paciente e operador)
-* Problemas causados pela má calibração dos equipamentos. (paciente e operador)
+* Quais os problemas causados pela não calibração dos equipamentos?
+* Problemas causados pela má calibração dos equipamentos.
 
 ## Natureza e importância do tema
 
@@ -49,9 +49,12 @@ Quando um acidente ocorre no ambiente hospitalar, a organização sofre consider
 
 Dentro do contexto hospitalar estão os equipamentos médico-hospitalares (EMH) que sustentam a vida, aliviam doenças e vencem desabilidades. Eles também, em algumas ocasiões, por falhas de operação, falhas próprias ou mau uso podem causar danos e mortes (ECRI, 2000 apud BATISTA, 2003, p.1).
 
+> O trecho abaixo responde a seguinte pergunta: "Quais os problemas causados pela não calibração dos equipamentos?"
+
 A falha em um equipamento pode causar acidente ou dificultar o reconhecimento e tratamento de outros problemas. A falha do equipamento pode ocorrer em virtude de várias causas, como defeito, manutenção ou montagem imprópria, ou por fatores ambientais, porém tal falha, raramente, é a única causa de um evento adverso. (BRULEY, 2000 apud BATISTA, 2003, p.1).
 
 Desse modo, com a crescente inserção de tecnologia na área da saúde, é necessário que as exigências de segurança na utilização de equipamentos nos ambientes hospitalares, cresçam a ritmos proporcionais a esta evolução tecnológica, a fim de minimizar os problemas oriundos da má ou falta de calibração dos equipamentos.
+
 Logo, a calibração e a manutenção tem sido realizadas dentro do hospital por técnicos de empresas terceirizadas, uma vez que a maioria dos EAS não possuem os recursos necessários para realizar o serviço, tais como equipamentos especializados e pessoal treinado.
 
 Conforme Beskow (2001 apud BATISTA, 2003, p.1), “o gerenciamento de tecnologia médico-hospitalar (gTMH) abrange um conjunto de situações normalmente complexas de serem resolvidas”. Estas englobam uma série de atividades como especificação, aquisição e instalação de equipamentos; treinamento de operadores; manutenções preventivas e corretivas; ensaios de avaliação técnica (segurança e desempenho); investigação de acidentes e de eventos adversos associados à tecnologia; substituição de equipamentos no final do ciclo de vida útil e descarte dos mesmos. Todas essas ações são desenvolvidas por profissionais da engenharia clínica (EC).
