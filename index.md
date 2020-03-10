@@ -2,13 +2,14 @@
 
  Aprenda a fazer seu trabalho de conclusão de curso sem mistérios e dor de cabeça.
 
- Material de orientação de TCC1 da turma de Biomedicina da UNIPAC - UBERLÂNDIA ( TURMA 2020/1)
+ Material de orientação de TCC1 da turma de Biomedicina da UNIPAC - UBERLÂNDIA (TURMA 2020/1)
   
 ## Links Úteis:
 
 * [Horários disponíveis para orientação](horarios.md)
 * [Manual para a apresentação de Trabalhos de Conclusão de Cursos – TCC](http://biblioteca.site.unipac.br/wp-content/uploads/sites/16/2019/07/Manual_TCC-2017_ATUALIZADO.pdf)
 * [Biblioteca da Unipac](http://biblioteca.site.unipac.br/)
+* [Como instalar o Google Drive](https://www.youtube.com/watch?v=JIIg14j8Aq0)
 
 ## Dica de ouro  
 
