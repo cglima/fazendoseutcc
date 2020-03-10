@@ -15,6 +15,7 @@
 
 * Faça todo dia um pouquinho
 * Coloque a ideia no "papel"
+* Não deixe a "água começar a bater na bunda" pra começar a escrever seu trabalho
 
 ## Capítulos
 
