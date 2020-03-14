@@ -63,3 +63,5 @@ Ex2.: Estas perguntas referem-se ao tema “Analisadores utilizados na calibraç
 Neste bloco você vai apresentar a ideia central do trabalho, de forma clara e objetiva, apresentar os objetivos (geral e secundários do estudo). Segue um exemplo de pergunta que você pode responder:
 
 * Quais os objetivos deste estudo?
+
+[Voltar para página Inicial](index.md)
