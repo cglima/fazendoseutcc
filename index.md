@@ -18,4 +18,5 @@
 
 ## Capítulos
 
-[Como fazer a Introdução](dica-01.md)
+[Ferramentas de Apoio ao Projeto](ferramenta-apoio.md)
+[Como fazer a Introdução](como-fazer-a-introducao.md)
