@@ -8,6 +8,7 @@
 * [Biblioteca da Unipac](http://biblioteca.site.unipac.br/)
 * [Como instalar o Google Drive](https://www.youtube.com/watch?v=JIIg14j8Aq0)
 * [Baixar o Mendeley References](https://static.mendeley.com/bin/desktop/mendeley-reference-manager-2.20.0.exe)
+* [Plugin do Mendeley no Word](https://store.office.com/addinsinstallpage.aspx?rs=en-001&assetid=WA104382081)
 
 ## Dica de ouro  
 
