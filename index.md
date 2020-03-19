@@ -15,5 +15,5 @@
 
 ## Capítulos
 
-* [Ferramentas de Apoio ao Projeto](ferramenta-apoio.md)
+* [Ferramentas de Apoio ao Projeto](ferramentas-apoio.md)
 * [Como fazer a Introdução](como-fazer-a-introducao.md)
