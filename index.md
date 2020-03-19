@@ -10,7 +10,7 @@
   
 ## Links Úteis
 
-* [Manual para a apresentação de Trabalhos de Conclusão de Cursos – TCC](http://biblioteca.site.unipac.br/wp-content/uploads/sites/16/2019/07/Manual_TCC-2017_ATUALIZADO.pdf)
+* [Manual para apresentação de Trabalhos de Conclusão de Cursos – TCC](http://biblioteca.site.unipac.br/wp-content/uploads/sites/16/2019/07/Manual_TCC-2017_ATUALIZADO.pdf)
 * [Biblioteca da Unipac](http://biblioteca.site.unipac.br/)
 
 ## Dicas de ouro  
@@ -23,6 +23,7 @@
 ## Como fazer...
 
 * [Ferramentas de Apoio ao Projeto](ferramentas-apoio.md)
+* [Como fazer seu Projeto de TCC em 14 semanas](processo-de-trabalho.md)
 * [Como fazer a Introdução](como-fazer-a-introducao.md)
   
 ## Sobre mim
