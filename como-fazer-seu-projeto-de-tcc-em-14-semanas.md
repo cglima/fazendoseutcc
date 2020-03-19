@@ -1,4 +1,4 @@
-# Processo de trabalho
+# Como fazer seu Projeto de TCC em 14 semanas
 
 > *Oi Ciana. Eu queria sua ajuda, pois não faço ideia do que fazer.O tema eu já escolhi, mas não sei por onde começar. Tô completamente perdida!*
 
@@ -17,7 +17,7 @@ E agora? Agora considerando o tempo que nós temos, você segue o seguinte proce
 
 ![Processo](img/processo.jpg)
 
-Parece complicado? Não se preocupe. Falaremos mais desse processo no decorrer de nosso curso. 
+Parece complicado? Não se preocupe. Falaremos mais desse processo no decorrer de nosso curso.
 
 Fazer um trabalho como um TCC pode parecer complexo, mas é muito simples se dividirmos o trabalho em pequenas partes.
 
@@ -26,3 +26,5 @@ Por enquanto, concentre-se na primeira etapa.
 ![Primeira Etapa](img/semana1.jpg)
 
 Até mais e bom trabalho!
+
+[Voltar para página Inicial](index.md)
