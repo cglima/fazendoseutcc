@@ -23,8 +23,8 @@
 ## Como fazer...
 
 * [Ferramentas de Apoio ao Projeto](ferramentas-apoio.md)
-* [Como fazer seu Projeto de TCC em 14 semanas](processo-de-trabalho.md)
-* [Como fazer a Introdução](como-fazer-seu-projeto-de-tcc-em-14-semanas.md)
+* [Como fazer seu Projeto de TCC em 14 semanas](como-fazer-seu-projeto-de-tcc-em-14-semanas.md)
+* [Como fazer a Introdução](como-fazer-a-introducao.md)
   
 ## Sobre mim
 
