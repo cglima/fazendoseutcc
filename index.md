@@ -4,7 +4,7 @@
   
 ## Links Úteis
 
-* [Manual para a apresentação de Trabalhos de Conclusão de Cursos – TCC](http://biblioteca.site.unipac.br/wp-content/uploads/sites/16/2019/07/Manual_TCC-2017_ATUALIZADO.pdf)
+* [Manual para apresentação de Trabalhos de Conclusão de Cursos – TCC](http://biblioteca.site.unipac.br/wp-content/uploads/sites/16/2019/07/Manual_TCC-2017_ATUALIZADO.pdf)
 * [Biblioteca da Unipac](http://biblioteca.site.unipac.br/)
 
 ## Dica de ouro  
