@@ -64,4 +64,8 @@ Neste bloco você vai apresentar a ideia central do trabalho, de forma clara e o
 
 * Quais os objetivos deste estudo?
 
+E aí, preparado pra fazer o cartão de visita do seu estudo??
+
+Até mais e bom trabalho!
+
 [Voltar para página Inicial](index.md)
