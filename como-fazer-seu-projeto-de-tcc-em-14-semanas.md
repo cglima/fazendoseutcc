@@ -15,7 +15,7 @@ A partir daí, você vai buscar artigos e referências que te ajudam a responder
 
 E agora? Agora considerando o tempo que nós temos, você segue o seguinte processo.
 
-![Processo](img/processo.jpg)
+[![Processo](img/processo.jpg)](img/processo.jpg)
 
 Parece complicado? Não se preocupe. Falaremos mais desse processo no decorrer do nosso curso.
 
@@ -23,7 +23,7 @@ Fazer um trabalho como um TCC pode parecer complexo, mas é muito simples se div
 
 Por enquanto, concentre-se na primeira etapa.
 
-![Primeira Etapa](img/semana1.jpg)
+[![Primeira Etapa](img/semana1.jpg)](img/semana1.jpg)
 
 Até mais e bom trabalho!
 
