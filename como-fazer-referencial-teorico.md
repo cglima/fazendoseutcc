@@ -19,6 +19,7 @@ Os conceitos que devem constar no referencial teórico do tema do exemplo são:
 
 * Hipertensão arterial
 * Pressão diastólica e sistólica
+* Epidemiologia
 * Fatores de risco
 * Causas da hipertensão
 * Diagnóstico
@@ -30,7 +31,7 @@ Os conceitos que devem constar no referencial teórico do tema do exemplo são:
   
 * Utilize trechos relevantes e que irá agregar ao seu trabalho. Lembre-se que o referencial teórico deve ser sucinto.
 
-## 3º Passo (Opcional)
+## 3º Passo
 
 * Descreva sobre resultados signitificativos, alcançados pelas pesquisas anteriores. Dessa forma, seu trabalho terá respaldo teórico e relevancia.
 
