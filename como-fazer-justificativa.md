@@ -21,3 +21,7 @@ Para finalizar, a sua justificativa deve ser persuasiva, convincente e imediatam
 2) Cite a importância do tema;
 3) Descreva porque  o tema é relevante;
 4) Identifque vantagens, pontos positivos de estudar o tema.
+
+Até mais e bom trabalho!
+
+[Voltar para página Inicial](index.md)
