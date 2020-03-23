@@ -24,8 +24,13 @@
 
 * [Ferramentas de Apoio ao Projeto](ferramentas-apoio.md)
 * [Como fazer seu Projeto de TCC em 14 semanas](como-fazer-seu-projeto-de-tcc-em-14-semanas.md)
+* [Como fazer a pergunta científica](pergunta-cientifica.md)
 * [Como fazer a Introdução](como-fazer-a-introducao.md)
-  
+* [Como fazer os objetivos](como-fazer-os-objetivos.md)
+* [Como fazer a justificativa](como-fazer-justificativa.md)
+* [Como fazer o referencial teórico](como-fazer-referencial-teorico.md)
+* [Links rápido de apoio](links-rapidos.md)
+
 ## Sobre mim
 
 * [Sobre cglima](sobre-mim.md)
