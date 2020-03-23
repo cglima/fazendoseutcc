@@ -20,7 +20,7 @@
 * Não deixe a "água começar a bater na bunda" pra começar a escrever seu trabalho
 * Siga o cronograma de desenvolvimento do projeto de TCC1
 
-## Como fazer...
+## Como fazer
 
 * [Ferramentas de Apoio ao Projeto](ferramentas-apoio.md)
 * [Como fazer seu Projeto de TCC em 14 semanas](como-fazer-seu-projeto-de-tcc-em-14-semanas.md)
