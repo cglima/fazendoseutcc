@@ -25,6 +25,10 @@ Por enquanto, concentre-se na primeira etapa.
 
 [![Primeira Etapa](img/semana1.jpg)](img/semana1.jpg)
 
+Segunda etapa! Vamos trabalhar mais um pouquinho.
+
+[![Segunda Etapa](img/semana2.jpg)](img/semana2.jpg)
+
 Até mais e bom trabalho!
 
 [Voltar para página Inicial](index.md)
